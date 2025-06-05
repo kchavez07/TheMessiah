@@ -5,7 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/kevin/OneDrive/Documentos/GitHub/Motores-Comerciales-1/TheMessiah/TheMessiah_MC1/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+				"C:/Users/kevin/OneDrive/Documentos/GitHub/Motores-Comerciales-1/TheMessiah/TheMessiah_MC1/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/kevin/OneDrive/Documentos/GitHub/Motores-Comerciales-1/TheMessiah/TheMessiah_MC1/Content/Blueprints/Bp_IA.uasset",
+				"C:/Users/kevin/OneDrive/Documentos/GitHub/Motores-Comerciales-1/TheMessiah/TheMessiah_MC1/Content/Blueprints/Bp_Spawner.uasset",
+				"C:/Users/kevin/OneDrive/Documentos/GitHub/Motores-Comerciales-1/TheMessiah/TheMessiah_MC1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/2G/AGJQJW2F5JO78ZUL7ORE2V.uasset",
+				"C:/Users/kevin/OneDrive/Documentos/GitHub/Motores-Comerciales-1/TheMessiah/TheMessiah_MC1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/12/GON2QDAI690SRC3V6T5M3U.uasset",
+				"C:/Users/kevin/OneDrive/Documentos/GitHub/Motores-Comerciales-1/TheMessiah/TheMessiah_MC1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/F6/06U3VG15M2CCNZJCA7PUB9.uasset"
 			]
 		}
 	]
